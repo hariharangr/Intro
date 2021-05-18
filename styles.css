@@ -1,0 +1,12 @@
+body{
+     background-color: azure;
+}
+hr{
+     border-style: dotted none none;
+     border-color: red;
+     border-width: 5px;
+     width: 4%;
+}
+.pic{
+     border-radius:100%;
+}
